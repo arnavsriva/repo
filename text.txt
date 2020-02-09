@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 72A8-27F3
+
+ Directory of C:\Users\Arnav Srivastava\Desktop\Git Proj
+
+02/09/2020  07:00 PM    <DIR>          .
+02/09/2020  07:00 PM    <DIR>          ..
+02/09/2020  07:00 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  28,969,848,832 bytes free
